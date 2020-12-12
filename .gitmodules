@@ -1,3 +1,6 @@
 [submodule "토비의 스프링/1주차/구연수_1주차"]
 	path = 토비의 스프링/1주차/구연수_1주차
 	url = https://github.com/KOO-YS/toby-spring.wiki.git
+[submodule "토비의 스프링/1주차/김성원_1주차"]
+	path = 토비의 스프링/1주차/김성원_1주차
+	url = https://github.com/ksw6169/toby-of-spring.wiki.git
