@@ -13,3 +13,6 @@
 [submodule "토비의 스프링/2주차/류별리_2주차"]
 	path = 토비의 스프링/2주차/류별리_2주차
 	url = https://github.com/ririkat/toby-spring-study.wiki.git
+[submodule "토비의 스프링/2주차/9연수_2주차"]
+	path = 토비의 스프링/2주차/9연수_2주차
+	url = https://github.com/KOO-YS/toby-spring.wiki.git
