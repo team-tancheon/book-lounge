@@ -40,3 +40,6 @@
 [submodule "토비의 스프링/5주차/구연수_5주차"]
 	path = 토비의 스프링/5주차/구연수_5주차
 	url = https://github.com/KOO-YS/toby-spring.wiki.git
+[submodule "토비의 스프링/5주차/류별리_5주차"]
+	path = 토비의 스프링/5주차/류별리_5주차
+	url = https://github.com/ririkat/toby-spring-study.wiki.git
