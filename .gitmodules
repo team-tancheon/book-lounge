@@ -52,3 +52,6 @@
 [submodule "토비의 스프링/6주차/류별리_6주차"]
 	path = 토비의 스프링/6주차/류별리_6주차
 	url = https://github.com/ririkat/toby-spring-study.wiki.git
+[submodule "토비의 스프링/7주차/류별리_7주차"]
+	path = 토비의 스프링/7주차/류별리_7주차
+	url = https://github.com/ririkat/toby-spring-study.git
