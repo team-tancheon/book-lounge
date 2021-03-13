@@ -85,3 +85,6 @@
 [submodule "토비의 스프링/11주차/김성원_11주차"]
 	path = 토비의 스프링/11주차/김성원_11주차
 	url = https://github.com/ksw6169/toby-of-spring.wiki.git
+[submodule "토비의 스프링/12주차/김성원_12주차"]
+	path = 토비의 스프링/12주차/김성원_12주차
+	url = https://github.com/ksw6169/toby-of-spring.wiki.git
