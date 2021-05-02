@@ -121,3 +121,6 @@
 [submodule "JPA/5주차/9연수_5주차"]
 	path = JPA/5주차/9연수_5주차
 	url = https://github.com/KOO-YS/jpa-programming.wiki.git
+[submodule "JPA/5주차/김성1_5주차"]
+	path = JPA/5주차/김성1_5주차
+	url = https://github.com/ksw6169/jpa-basic.wiki.git
