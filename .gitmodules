@@ -136,3 +136,6 @@
 [submodule "JPA/6주차/류별2_6주차"]
 	path = JPA/6주차/류별2_6주차
 	url = https://github.com/ririkat/JPA-study.wiki.git
+[submodule "JPA/7주차/9연수_7주차"]
+	path = JPA/7주차/9연수_7주차
+	url = https://github.com/KOO-YS/jpa-programming.wiki.git
