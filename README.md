@@ -20,4 +20,4 @@
 
 ### 스터디 내용
 - [토비의 스프링](https://github.com/team-tancheon/book-lounge/tree/main/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%81) : 완료(20.12.11 ~ 21.3.21)
-- 자바 ORM 표준 JPA 프로그래밍 : 진행중(21.3.22 ~ ) 
+- [자바 ORM 표준 JPA 프로그래밍](https://github.com/team-tancheon/book-lounge/tree/main/JPA) : 진행중(21.3.22 ~ ) 
