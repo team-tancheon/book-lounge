@@ -178,3 +178,6 @@
 [submodule "JPA/12주차/류별2_12주차"]
 	path = JPA/12주차/류별2_12주차
 	url = https://github.com/ririkat/JPA-study.wiki.git
+[submodule "JPA/13주차/김성1_13주차"]
+	path = JPA/13주차/김성1_13주차
+	url = https://github.com/ksw6169/jpa-basic.wiki.git
