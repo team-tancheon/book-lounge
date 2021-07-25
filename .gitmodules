@@ -196,3 +196,6 @@
 [submodule "Effective Java/2주차/김성1_2주차"]
 	path = Effective Java/2주차/김성1_2주차
 	url = https://github.com/ksw6169/java-basic.wiki.git
+[submodule "Effective Java/2주차/6혜민_2주차"]
+	path = Effective Java/2주차/6혜민_2주차
+	url = https://github.com/yuhyeminn/effective-java.wiki.git
