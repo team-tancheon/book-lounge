@@ -192,7 +192,7 @@
 	url = https://github.com/yuhyeminn/effective-java.wiki.git
 [submodule "Effective Java/9연수_2주차"]
 	path = Effective Java/2주차/9연수_2주차
-	url = https://github.com/KOO-YS/jpa-programming.wiki.git
+	url = https://github.com/KOO-YS/effective-java.wiki.git
 [submodule "Effective Java/2주차/김성1_2주차"]
 	path = Effective Java/2주차/김성1_2주차
 	url = https://github.com/ksw6169/java-basic.wiki.git
@@ -205,3 +205,6 @@
 [submodule "Effective Java/3주차/김성1_3주차"]
 	path = Effective Java/3주차/김성1_3주차
 	url = https://github.com/ksw6169/java-basic.wiki.git
+[submodule "Effective Java/9연수_3주차"]
+	path = Effective Java/9연수_3주차
+	url = https://github.com/KOO-YS/effective-java.wiki.git
