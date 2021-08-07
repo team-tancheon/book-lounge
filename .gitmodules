@@ -214,3 +214,6 @@
 [submodule "Effective Java/3주차/9연수_3주차"]
 	path = Effective Java/3주차/9연수_3주차
 	url = https://github.com/KOO-YS/effective-java.wiki.git
+[submodule "Effective Java/4주차/9연수_4주차"]
+	path = Effective Java/4주차/9연수_4주차
+	url = https://github.com/KOO-YS/effective-java.wiki.git
