@@ -220,3 +220,6 @@
 [submodule "Effective Java/4주차/김성1_4주차"]
 	path = Effective Java/4주차/김성1_4주차
 	url = https://github.com/ksw6169/jpa-basic.wiki.git
+[submodule "Effective Java/4주차/6혜민_4주차"]
+	path = Effective Java/4주차/6혜민_4주차
+	url = https://github.com/yuhyeminn/effective-java.wiki.git
