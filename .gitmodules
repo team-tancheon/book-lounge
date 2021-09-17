@@ -250,3 +250,6 @@
 [submodule "Effective Java/7주차/6혜민_7주차"]
 	path = Effective Java/7주차/6혜민_7주차
 	url = https://github.com/yuhyeminn/effective-java.wiki.git
+[submodule "Effective Java/8주차/9연수_8주차"]
+	path = Effective Java/8주차/9연수_8주차
+	url = https://github.com/koo-ys/effective-java.wiki
